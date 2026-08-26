@@ -4,9 +4,17 @@
   </a>
 </p>
 
-###  About Me
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=385&height=44&lines=I%20create%20a%20better%20world;Bring%20light%20to%20darkness" alt="Typing headlines" />
+</p>
+
+### 🚀 About Me
 
 AI Engineer | Mathematics &amp; Data Science | Full-Stack Developer | Innovation Leader | Founder, Tafarama
+
+🔭 &nbsp;I'm currently working on **Developing young generations**  
+👯 &nbsp;I'm looking to collaborate on **training  models and fine tuning**  
+⚡ &nbsp;Fun fact: **love mind games and still watch animes at my age**
 
 ### 🛠️ Tech Stack
 
@@ -84,12 +92,6 @@ AI Engineer | Mathematics &amp; Data Science | Full-Stack Developer | Innovation
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Essoh21&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
-
-### 💭 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
 
 ---
