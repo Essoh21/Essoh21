@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Essoh21">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=890&text=Hello!%20I'm%20Essohanam%20ALOU" alt="Hello! I&#39;m Essohanam ALOU" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=890&text=%20I'm%20Essohanam%20ALOU" alt="Hello! I&#39;m Essohanam ALOU" />
   </a>
 </p>
 
@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=385&height=44&lines=I%20create%20a%20better%20world;Bring%20light%20to%20darkness" alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+###  About Me
 
 AI Engineer | Mathematics &amp; Data Science | Full-Stack Developer | Innovation Leader | Founder, Tafarama
 
