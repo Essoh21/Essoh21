@@ -4,7 +4,7 @@
   </a>
 </p>
 
-### 🚀 About Me
+###  About Me
 
 AI Engineer | Mathematics &amp; Data Science | Full-Stack Developer | Innovation Leader | Founder, Tafarama
 
